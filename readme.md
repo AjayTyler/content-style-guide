@@ -1,14 +1,12 @@
-# Welcome to the MailChimp Content Style Guide
+# Welcome to the General Ecommerce Style Guide
 
-This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
+This style guide began as a fork of MailChimp's style guide, but it has taken on a specifically e-commerce direction. We hope that other businesses find it as useful as we have.
 
 If you're looking for the MailChimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
 
-Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
-
 ## Using the Guide
 
-We've written a [blog post](http://devs.mailchimp.com/blog/how-we-built-the-mailchimp-content-style-guide/) and set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+MailChimp has written a [blog post](http://devs.mailchimp.com/blog/how-we-built-the-mailchimp-content-style-guide/) and set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
