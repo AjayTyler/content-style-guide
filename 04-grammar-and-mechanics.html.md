@@ -65,10 +65,6 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
 
-### Emoji
-
-Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
-
 ### Numbers
 
 Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
@@ -141,12 +137,12 @@ Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
+- 7 am
 - 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
 - 7am-10:30pm
 
@@ -195,16 +191,14 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 #### Commas
 
-When writing a list, use the serial comma (also known as the Oxford comma). 
+When writing a list, use the serial comma (also known as the Oxford comma).
 
 - Yes: David admires his parents, Oprah, and Justin Timberlake.
 - No: David admires his parents, Oprah and Justin Timberlake.
 
-Otherwise, use common sense. If you’re unsure, read the sentence out loud. Where you find yourself taking a breath, use a comma.
-
 #### Dashes and hyphens
 
-Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range. 
+Use a hyphen (-) without spaces on either side to link words into single phrase, or to indicate a span or range.
 
 - first-time user
 - Monday-Friday

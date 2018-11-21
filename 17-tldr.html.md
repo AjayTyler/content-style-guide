@@ -3,7 +3,7 @@ title: TL;DR
 layout: article
 ---
 
-The MailChimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The Company's Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -16,16 +16,16 @@ Good content is:
 
 ## Voice and tone
 
-MailChimp’s voice is:
+The Company’s voice is:
 
-* Human
-* Familiar
-* Friendly
-* Straightforward
+* Professional
+* Sales-oriented
+* Conversational
+* Detailed
 
-Our tone changes depending on the situation, but it's generally informal. We have a sense of humor, but we value clarity over entertainment.
+Our tone changes depending on the situation, but it's generally business casual. We value clarity over entertainment, and we generally seek to promote products by translating their features into applicable benefits.
 
-Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
+Our priorities are to educate our customers about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
 Related resource: The MailChimp [Voice and Tone guide](http://voiceandtone.com/).
 
@@ -41,8 +41,8 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 
 ## Grammar and mechanics
 
-- Some people will read every word you write. Others will just scan. Help everyone by grouping related ideas together and using descriptive headers and subheaders.
-- Focus your message, and create a hierarchy of information. Lead with the main point or the most important content.
+- Some people will read every word you write. Most will just scan. Help everyone by grouping related ideas together and using descriptive headers and subheaders when applicable.
+- Focus your message and create a hierarchy of information. Lead with the main point or the most important content.
 - Use active voice and positive language.
 - Use short words and sentences.
 - Avoid unnecessary modifiers.
@@ -50,8 +50,8 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 - Avoid vague language.
 - Be consistent. Adhere to the copy patterns and style points outlined in this guide.
 - Feel free to use contractions.
-- Use the serial comma. Otherwise, use common sense.
-- Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.
+- Use the serial (Oxford) comma.
+- Don’t use underline, and don’t use any combination of italic, bold, and caps.
 - When in doubt, read your writing out loud.
 
 ## Web elements
@@ -87,6 +87,6 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 - Avoid double negatives.
 - Use contractions with caution.
 - Avoid using synonyms for the same word in a single piece of writing.
-- Write briefly, but don’t sacrifice clarity for brevity. You may need to repeat or add words to make the meaning of your sentences clear to a translator.
+- Write briefly, but don’t sacrifice clarity for brevity.
 - Avoid slang, idioms, and cliches.
 - Avoid unnecessary abbreviations.

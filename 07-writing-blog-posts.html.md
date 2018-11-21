@@ -34,9 +34,6 @@ Get to the important stuff right away, and don’t bury the kicker. Blog posts s
 ### Link it up
 Feel free to link away from MailChimp if it helps you explain something.
 
-### Make 'em LOL
-MailChimp is a fun company, and we want our blog to reflect this. Feel free to throw in a joke here and there, or link out to a funny GIF or YouTube video when appropriate. Just don't overdo it.
-
 ### Use tags and keywords
 In WordPress, add keywords that apply to your article. Look through existing posts for common tags. If you’re not sure if a word should be a tag, it probably shouldn’t.
 
