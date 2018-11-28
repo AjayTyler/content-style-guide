@@ -27,7 +27,7 @@ Our tone changes depending on the situation, but it's generally business casual.
 
 Our priorities are to educate our customers about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
-Related resource: The MailChimp [Voice and Tone guide](http://voiceandtone.com/).
+Related resource: The Comany's [Voice and Tone guide](http://voiceandtone.com/).
 
 ## Writing about people
 
